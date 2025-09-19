@@ -1,1 +1,1 @@
-### Repository for Coursera Jupyter Notebook assingment
+### Repository for Coursera Jupyter Notebook assignment
